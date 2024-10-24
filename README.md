@@ -4,4 +4,7 @@ pivot tables and Formula in Excel. The Report dashboard offers insights into var
 the sales performance, such as total product counts, monthly sales, top products, and top cities 
 by sales, among other metrics. Below is a step-by-step breakdown of the report and the process 
 involved in generating this dashboard, focusing on key insights and how pivot tables have been 
-utilized. 
+utilized.
+### Dashboard visual
+
+![Dashboard](https://github.com/Biswajeet-Behera-off/BB_electronics_sales_analysis/blob/main/Dashboard.png)
